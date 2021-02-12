@@ -7,10 +7,10 @@ logo: 5-songs.png
 favicon: favicon.png
 rounded: '16'
 colors:
-  DEFAULT: '#FAFAFA'
-  highlight: '#00d1b7'
-  accent: '#262626'
-  background: '#262626'
+  DEFAULT: '#FFFFFF'
+  highlight: '#0E4B80'
+  accent: '#F7BE4E'
+  background: '#F7BE4E'
 tracking:
   which: none
   id: ''
